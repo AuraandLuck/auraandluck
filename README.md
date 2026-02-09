@@ -1,26 +1,40 @@
 # 🌟 Aura & Luck 🌟
-> Awaken your inner aura, unlock life's good fortune | The core inspiration and practice hub for our official platform.
+> Awaken your inner aura, unlock a life of fortune | [Aura & Luck](https://auraandluck.com/)
 
 ### 👋 About This Page
-This is the open-source companion to our official hub—aligned with its core vision, yet with more casual insights and actionable details.
-We firmly believe:
-- Aura is the **energetic expression** of your physical and mental state, embodying your cognition, emotions, and motivation
-- Luck is the result of **vibrational alignment**, not chance, but the inevitable outcome of your state and choices
+This is the open-source side-profile of [Aura & Luck](https://auraandluck.com/). While our official site serves as our brand flagship, this space is dedicated to practical insights, community co-creation, and actionable tools.
 
-### 📌 Core Focus
-- ✨ Aura Calibration: Lightweight practices for breathing techniques, mindfulness, and energy clearing (tied to our official content)
-- 🍀 Luck Cultivation: Actionable steps for goal setting, action anchors, and gratitude reflection (rooted in our manifestation frameworks)
-- 📚 Cognitive Elevation: Curated insights on psychology, energetics, and growth mindset (synced with our wisdom library)
-- 🛠️ Tool Repository: Templates like emotion journals and weekly aura reviews (aligned with our practical methodologies)
-
-### 📮 Connect & Feedback
-- Share your insights or questions from practicing with our content here—we regularly compile feedback and update answers on our official hub
-- All sharing rejects mysticism, focusing on **perceivable, actionable** state improvement
-
-### 💡 Gentle Reminder
-> Aura enhancement is not an overnight transformation, but daily incremental calibration;
-> Luck is not passive waiting for chance, but the natural result of vibrational alignment.
-> May you find direction on our official platform, and actionable details here—gradually becoming the best version of yourself, radiating positivity and attracting good fortune.
+To learn more about our philosophy, Please visit our [About Us](https://auraandluck.com/pages/about-aura-luck).
 
 ---
-⭐️ Sync Updates: Core content will be periodically archived here as reusable tools—[visit our official Aura & Luck hub](https://auraandluck.com/) and star this repo to follow ⭐️
+
+### 📌 Core Pillars (Practice & Tools)
+
+- **✨ Aura Calibration**:
+  In alignment with our "Mind-Body Tuning" section. Beyond meditation techniques, explore how to harmonize your energy field through [Feng Shui Wisdom](https://auraandluck.com/pages/feng-shui) or the natural resonance of [Spiritual Crystals](https://auraandluck.com/collections/spiritual-crystal).
+
+- **🍀 Luck Manifestation**:
+  Practical paths to manifestation. We’ve curated a selection of [Best Sellers](https://auraandluck.com/collections/best-sellers), including our [Pixiu Collection](https://auraandluck.com/collections/pixiu) and [Sacred Talismans](https://auraandluck.com/collections/talismans), designed to serve as physical anchors for your intentions.
+
+- **🌸 Aesthetic Living**:
+  Elevate your space’s vibration through [Artistic Silk Flowers](https://auraandluck.com/collections/silk-flower). We believe luck flows naturally into a life filled with intentional beauty.
+
+- **📚 Knowledge Base**:
+  Synced with the [Aura & Luck Blog](https://auraandluck.com/blogs/news). Dive deep into psychology, energetics, and growth mindsets to deconstruct the mechanics of "good luck."
+
+- **🛠️ Practical Toolkits**:
+  Open-source templates (Emotion Logs, Manifestation Checklists, Weekly Aura Reviews) designed to turn our [Feng Shui Guide](https://auraandluck.com/pages/feng-shui) philosophy into tangible daily habits.
+
+---
+
+### 📮 Connect & Feedback
+- **Main Hub**: [Aura & Luck Offcial Website](https://auraandluck.com/)
+- **Co-Creation**: Have insights or questions from your practice? Open an Issue or leave a comment here. We regularly update our official site with community-driven FAQs.
+
+### 💡 A Gentle Reminder
+> Aura enhancement isn't a one-time overhaul, but a daily calibration. 
+> Luck isn't a random occurrence, but the natural result of "energy matching."
+> May you find your direction at [Aura & Luck](https://auraandluck.com/) and find the details of growth on this page.
+
+---
+⭐️ **Stay Synced**: We periodically distill core insights into reusable tools here. Feel free to **Star** this repo to stay updated. ⭐️
