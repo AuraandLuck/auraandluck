@@ -1,5 +1,5 @@
 # 🌟 Aura & Luck 🌟
-> Awaken your inner aura, unlock life's good fortune | The core inspiration and practice hub for our official platform
+> Awaken your inner aura, unlock life's good fortune | The core inspiration and practice hub for our official platform.
 
 ### 👋 About This Page
 This is the open-source companion to our official hub—aligned with its core vision, yet with more casual insights and actionable details.
